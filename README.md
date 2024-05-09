@@ -5,9 +5,8 @@ This project is a simple financial management application built using React.js. 
 ![App Screenshot](Financial-App.png)
 
 <p align="center">
-  <a href="https://www.example.com" target="_blank">Click here to access the website</a>
+  <a href="https://financial-app-reactjs.netlify.app/" target="_blank">Click here to access the website</a>
 </p>
-
 
 
 ### Features
