@@ -2,6 +2,13 @@
 
 This project is a simple financial management application built using React.js. The main purpose of this app is to help users track their income and expenses by storing transaction data in the browser's local storage.
 
+![App Screenshot](Financial-App.png)
+
+<p align="center">
+  <a href="https://financial-app-reactjs.netlify.app/">Click here to access the website</a>
+</p>
+
+
 ### Features
 
 - **Add Transactions:** Users can add new transactions by providing a description, amount, and selecting whether it's an income or expense.
